@@ -6,4 +6,4 @@
 
  - flameshot
  - tesseract 
-  - gocr 
+   - gocr 
